@@ -58,7 +58,7 @@
     "mime": "^2.5.0",
     "multistream": "^4.1.0",
     "nat-pmp": "github:yciabaud/node-nat-pmp#patch-1",
-    "nat-upnp": "^1.0.4",
+    "nat-upnp": "iwater/node-nat-upnp",
     "network": "^0.3.2",
     "package-json-versionify": "^1.0.4",
     "parse-torrent": "^9.1.1",
